@@ -1,0 +1,15 @@
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\bin\Debug\net6.0\ref\ExaminationSystem.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.AssemblyReference.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache

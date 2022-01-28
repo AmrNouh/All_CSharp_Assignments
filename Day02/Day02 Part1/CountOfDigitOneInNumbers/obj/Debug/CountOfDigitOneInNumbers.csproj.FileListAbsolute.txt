@@ -1,0 +1,8 @@
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\CountOfDigitOneInNumbers\bin\Debug\CountOfDigitOneInNumbers.exe.config
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\CountOfDigitOneInNumbers\bin\Debug\CountOfDigitOneInNumbers.exe
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\CountOfDigitOneInNumbers\bin\Debug\CountOfDigitOneInNumbers.pdb
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\CountOfDigitOneInNumbers\obj\Debug\CountOfDigitOneInNumbers.csproj.SuggestedBindingRedirects.cache
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\CountOfDigitOneInNumbers\obj\Debug\CountOfDigitOneInNumbers.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\CountOfDigitOneInNumbers\obj\Debug\CountOfDigitOneInNumbers.exe
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\CountOfDigitOneInNumbers\obj\Debug\CountOfDigitOneInNumbers.pdb
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\CountOfDigitOneInNumbers\obj\Debug\CountOfDigitOneInNumbers.csproj.AssemblyReference.cache

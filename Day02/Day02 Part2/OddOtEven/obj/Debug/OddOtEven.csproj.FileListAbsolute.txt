@@ -1,0 +1,7 @@
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\OddOtEven\bin\Debug\OddOtEven.exe.config
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\OddOtEven\bin\Debug\OddOtEven.exe
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\OddOtEven\bin\Debug\OddOtEven.pdb
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\OddOtEven\obj\Debug\OddOtEven.csproj.SuggestedBindingRedirects.cache
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\OddOtEven\obj\Debug\OddOtEven.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\OddOtEven\obj\Debug\OddOtEven.exe
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\OddOtEven\obj\Debug\OddOtEven.pdb

@@ -1,0 +1,8 @@
+F:\ITI PD 9Month\C#\Day03\Lab\Day03\StudentGrades\bin\Debug\StudentGrades.exe.config
+F:\ITI PD 9Month\C#\Day03\Lab\Day03\StudentGrades\bin\Debug\StudentGrades.exe
+F:\ITI PD 9Month\C#\Day03\Lab\Day03\StudentGrades\bin\Debug\StudentGrades.pdb
+F:\ITI PD 9Month\C#\Day03\Lab\Day03\StudentGrades\obj\Debug\StudentGrades.csproj.AssemblyReference.cache
+F:\ITI PD 9Month\C#\Day03\Lab\Day03\StudentGrades\obj\Debug\StudentGrades.csproj.SuggestedBindingRedirects.cache
+F:\ITI PD 9Month\C#\Day03\Lab\Day03\StudentGrades\obj\Debug\StudentGrades.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\Day03\Lab\Day03\StudentGrades\obj\Debug\StudentGrades.exe
+F:\ITI PD 9Month\C#\Day03\Lab\Day03\StudentGrades\obj\Debug\StudentGrades.pdb

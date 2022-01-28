@@ -1,0 +1,8 @@
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\CharToAscii\bin\Debug\CharToAscii.exe.config
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\CharToAscii\bin\Debug\CharToAscii.exe
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\CharToAscii\bin\Debug\CharToAscii.pdb
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\CharToAscii\obj\Debug\CharToAscii.csproj.AssemblyReference.cache
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\CharToAscii\obj\Debug\CharToAscii.csproj.SuggestedBindingRedirects.cache
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\CharToAscii\obj\Debug\CharToAscii.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\CharToAscii\obj\Debug\CharToAscii.exe
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\CharToAscii\obj\Debug\CharToAscii.pdb

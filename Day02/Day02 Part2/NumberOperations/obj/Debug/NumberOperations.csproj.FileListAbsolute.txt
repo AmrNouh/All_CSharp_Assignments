@@ -1,0 +1,7 @@
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\NumberOperations\obj\Debug\NumberOperations.csproj.SuggestedBindingRedirects.cache
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\NumberOperations\obj\Debug\NumberOperations.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\NumberOperations\bin\Debug\NumberOperations.exe.config
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\NumberOperations\bin\Debug\NumberOperations.exe
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\NumberOperations\bin\Debug\NumberOperations.pdb
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\NumberOperations\obj\Debug\NumberOperations.exe
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\NumberOperations\obj\Debug\NumberOperations.pdb

@@ -1,0 +1,7 @@
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\MultiplcationTable\bin\Debug\MultiplcationTable.exe.config
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\MultiplcationTable\bin\Debug\MultiplcationTable.exe
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\MultiplcationTable\bin\Debug\MultiplcationTable.pdb
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\MultiplcationTable\obj\Debug\MultiplcationTable.csproj.SuggestedBindingRedirects.cache
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\MultiplcationTable\obj\Debug\MultiplcationTable.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\MultiplcationTable\obj\Debug\MultiplcationTable.exe
+F:\ITI PD 9Month\C#\Day02\Lab\Lab02\MultiplcationTable\obj\Debug\MultiplcationTable.pdb

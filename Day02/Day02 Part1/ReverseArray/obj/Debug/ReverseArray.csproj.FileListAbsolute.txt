@@ -1,0 +1,8 @@
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\ReverseArray\bin\Debug\ReverseArray.exe.config
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\ReverseArray\bin\Debug\ReverseArray.exe
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\ReverseArray\bin\Debug\ReverseArray.pdb
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\ReverseArray\obj\Debug\ReverseArray.csproj.AssemblyReference.cache
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\ReverseArray\obj\Debug\ReverseArray.csproj.SuggestedBindingRedirects.cache
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\ReverseArray\obj\Debug\ReverseArray.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\ReverseArray\obj\Debug\ReverseArray.exe
+F:\ITI PD 9Month\C#\Day02\Lab\ReverseArray\ReverseArray\obj\Debug\ReverseArray.pdb
