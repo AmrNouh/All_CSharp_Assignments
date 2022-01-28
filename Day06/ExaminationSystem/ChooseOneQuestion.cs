@@ -11,7 +11,20 @@ namespace ExaminationSystem
         public ChooseOneQuestion(double mark, string body, Answer studentAnswer, Answer correctAnswer) : base("Select the correct answer:", mark, body, studentAnswer, correctAnswer) { }
         public override string QuestionFormat()
         {
-            throw new NotImplementedException();
+            return $"{header}\t\t\t\t [{marks} marks]\n{body}\n";
+        }
+
+        public override string ToString()
+        {
+            if (studentAnswer.answer != null)
+            {
+                return $"{header}\t\t\t\t [{marks} marks]\n{body}\nYour Answer is: {studentAnswer}\n";
+
+            }
+            else
+            {
+                return $"{header}\t\t\t\t [{marks} marks]\n{body}\n";
+            }
         }
     }
 }

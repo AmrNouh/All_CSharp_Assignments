@@ -17,5 +17,9 @@ namespace ExaminationSystem
            this.answer = answer;
         }
 
+        public override string ToString()
+        {
+            return answer.ToString();
+        }
     }
 }

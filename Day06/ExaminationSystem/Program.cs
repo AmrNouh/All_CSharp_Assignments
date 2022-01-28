@@ -13,9 +13,13 @@ switch (choice)
 {
     case 1:
         PracticeExam practicalExam;
-        Exam.CreateExam(examTime,subjectInfo,numberOfQuestion);
+        //Exam.CreateExam(examTime,subjectInfo,numberOfQuestion);
         QuestionsList examQuestions = new QuestionsList(numberOfQuestion);
-        //examQuestions.AddQuestion(new TrueOrFalseQuestion());
+        examQuestions.AddQuestion(new TrueOrFalseQuestion(5,"Fish Live on Water", new Answer(TrueOrFalseAnswer.False), new Answer(TrueOrFalseAnswer.True)));
+        examQuestions.AddQuestion(new TrueOrFalseQuestion(5,"Fish Live on Land",null,new Answer(TrueOrFalseAnswer.False)));
+        examQuestions.AddQuestion(new TrueOrFalseQuestion(5,"Fish eat Meat",null,new Answer(TrueOrFalseAnswer.False)));
+        examQuestions.AddQuestion(new TrueOrFalseQuestion(5,"Fish Live on Water",null,new Answer(TrueOrFalseAnswer.True)));
+        Console.WriteLine(examQuestions[1]);
 
         break;
         case 2:

@@ -44,7 +44,7 @@ namespace ExaminationSystem
             {
                 Console.Clear();
                 Console.WriteLine("Please Enter Exam Time in Format HH:MM");
-            } while (TimeSpan.TryParse(Console.ReadLine(),out examTime));
+            } while (!TimeSpan.TryParse(Console.ReadLine(),out examTime));
             do
             {
                 Console.Clear();
