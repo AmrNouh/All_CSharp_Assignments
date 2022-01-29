@@ -8,21 +8,21 @@ namespace ExaminationSystem
 {
     internal class TrueOrFalseQuestion : Question
     {
-        public TrueOrFalseQuestion(double mark, string body, Answer studentAnswer, Answer correctAnswer) : base("True or False", mark, body, studentAnswer, correctAnswer) { }
+        public TrueOrFalseQuestion(double mark, string body,  Answer correctAnswer) : base("True or False :", mark, body, correctAnswer) { }
         public override string QuestionFormat()
         {
-            return $"{header}\t\t\t\t [{marks} marks]\n{body}\t\t{"( )",7}\n";
+            return $"{header}\t\t\t\t[{marks} marks]\n\n *) {body}\t\t{"( )",10}\n";
         }
         public override string ToString()
         {
             if (this.studentAnswer != null)
             {
-            return $"{header}\t\t\t\t [{this.marks} marks]\n{body}\t\t({studentAnswer})\n";
+            return $"{header}\t\t\t\t[{marks} marks]\n\n *) {body}\t\t({studentAnswer})\n\n -> The Correct Answer is: {correctAnswer}\n";
 
             }
             else
             {
-                return $"{header}\t\t\t\t [{marks} marks]\n{body}\t\t{"( )",7}\n";
+                return $"{header}\t\t\t\t[{marks} marks]\n\n *) {body}\t\t{"( )",10}\n";
             }
         }
     }

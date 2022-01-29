@@ -11,34 +11,59 @@ namespace ExaminationSystem
         public PracticeExam() : base() { }
         public PracticeExam(TimeSpan examTime, Subject subjectInfo, Student studentInfo, int numberOfQuestion, QuestionsList questions, AnswersList answers) : base(examTime, subjectInfo, studentInfo, numberOfQuestion, questions, answers) { }
 
-        public override double Correct(QuestionsList examQuestions, AnswersList correctAnswers)
+        public override double Correct(QuestionsList examQuestions, AnswersList studentAnswers)
         {
-            double studentGrade;
-            return studentGrade = 0;
+            double studentGrade = 0;
+            Question question;
+            for (int i = 0; i < this.numberOfQuestions; i++)
+            {
+                question = examQuestions[i + 1];
+                if (question.correctAnswer == studentAnswers[i+1])
+                {
+                    studentGrade += question.marks;
+                }
+            }
+            return studentGrade;
         }
 
         public override void PrintExam()
         {
-            throw new NotImplementedException();
+            Console.Clear();
+            Console.WriteLine("\n==================== Practic Exam Result ====================\n");
+            for (int i = 0; i < this.numberOfQuestions; i++)
+            {
+                Console.WriteLine($"\n - Question ({i + 1}) With answer:\n");
+                Console.WriteLine(this.examQuestions[i + 1]);
+                Console.WriteLine("==============================================");
+
+            }
         }
 
         public override void ShowExam()
         {
             object answer;
-            Console.WriteLine($"{subjectInfo}\t\tExam Time: {examTime.Hours}\n");
-            Console.WriteLine($"\n================== {subjectInfo.subjectName} Exam ==================\n");
-            Console.WriteLine($"{this.studentInfo}");
-            Console.WriteLine($"\n===================================================================\n");
+            Question question;
+            Type answerType;
+
             for (int i = 0; i < this.numberOfQuestions; i++)
             {
-                Console.WriteLine(examQuestions[i + 1]);
+                Console.WriteLine($"\n===================================================================");
+                Console.WriteLine($"\n - Question Number {i + 1} of {this.numberOfQuestions}");
+                Console.WriteLine($"\n===================================================================\n");
+
+                question = examQuestions[i + 1];
+                answerType = Answer.CheckQuestionType(question);
+                Console.WriteLine(question);
                 do
                 {
                     Console.WriteLine("Please Enter The Answer:");
-                } while (!Enum.TryParse(typeof(Enum),Console.ReadLine(),out answer));
-                this.questionsAnswers[i+1] = (Answer)answer;
-                Console.WriteLine(this.questionsAnswers[i + 1]);
+                } while (!Enum.TryParse(answerType, Console.ReadLine(),true, out answer));
+                this.questionsAnswers[i + 1] = question.studentAnswer = new Answer((Enum)answer);
+                //Console.WriteLine($"your Answer is : {this.questionsAnswers[i + 1]}\n");
+                Console.Clear();
             }
+            Console.WriteLine($"\n================== {subjectInfo.subjectName} Exam End ==================\n");
+            Console.WriteLine($"{"Best Wishes",rightAlignment}\n{"Eng\\",rightAlignment} {subjectInfo.profName}");
         }
     }
 }

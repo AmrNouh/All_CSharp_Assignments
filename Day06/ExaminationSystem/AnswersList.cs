@@ -92,11 +92,11 @@ namespace ExaminationSystem
                         {
                             if (questionsNumbers[i] == questionNumber)
                             {
-                                Console.WriteLine($"Answer for Question Number {questionNumber} is Updated!");
+                                //Console.WriteLine($"Answer for Question Number {questionNumber} is Updated!");
                                 answers[i] = value;
                             }
                         }
-                        Console.WriteLine("New Answer Added!");
+                        //Console.WriteLine("New Answer Added!");
                         AddAnswer(value);
                     }
                     else

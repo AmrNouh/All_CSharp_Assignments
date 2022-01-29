@@ -8,6 +8,8 @@ namespace ExaminationSystem
 {
     abstract internal class Exam
     {
+        protected const int leftAlignment = -7;
+        protected const int rightAlignment = 40;
         public TimeSpan examTime { get; set; }
         public Subject subjectInfo { get; set; }
         public Student studentInfo { get; set; }
@@ -38,7 +40,7 @@ namespace ExaminationSystem
 
         public abstract void ShowExam();
         public abstract void PrintExam();
-        public abstract double Correct(QuestionsList examQuestions, AnswersList correctAnswers);
+        public abstract double Correct(QuestionsList examQuestions, AnswersList studentAnswers);
 
         public static void CreateExam(TimeSpan examTime, Subject subjectInfo, int numberOfQuestion)
         {
@@ -88,6 +90,12 @@ namespace ExaminationSystem
             Console.Clear();
         }
 
+        public static void PrintExamHeader(Exam exam)
+        {
+            Console.WriteLine($"{exam.subjectInfo}\t\t\t\t{"Exam Time:",rightAlignment} {exam.examTime.ToString()}\n");
+            Console.WriteLine($"\t\t\t================== {exam.subjectInfo.subjectName} Exam ==================");
+            Console.WriteLine($"{exam.studentInfo}");
+        }
         public static void TakeStudentData(Student student)
         {
             do

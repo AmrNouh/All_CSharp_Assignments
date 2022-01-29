@@ -14,12 +14,11 @@ namespace ExaminationSystem
         public Answer studentAnswer { get; set; }
         public Answer correctAnswer { get; set; }
 
-        public Question(string questionHeader,double marks, string questionBody,Answer studentAnswer,Answer correctAnswer )
+        public Question(string questionHeader,double marks, string questionBody,Answer correctAnswer, Answer studentAnswer = null)
         {
             this.header = questionHeader;
             this.marks = marks;
             this.body = questionBody;
-            this.studentAnswer = studentAnswer;
             this.correctAnswer = correctAnswer;
         }
 

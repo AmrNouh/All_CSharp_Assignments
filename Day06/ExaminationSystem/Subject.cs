@@ -8,6 +8,8 @@
         public string departmentName { get; set; }
         public string organizationName { get; set; }
 
+        const int leftAlignment = -7;
+        const int rightAlignment = 40;
         public Subject()
         {
             this.subjectName = String.Empty;
@@ -27,7 +29,7 @@
 
         public override string ToString()
         {
-            return $"\nSubject Name: {subjectName}\t\t\t\tProfessor Name: {profName}\nFull Mark: {fullMark}\t\t\t\tDepartment : {departmentName}\n{organizationName}";
+            return $"\nSubject Name: {subjectName,leftAlignment}\t\t\t{"Professor Name:",rightAlignment} {profName}\nFull Mark: {fullMark,leftAlignment}\t\t\t{"Department",rightAlignment} : {departmentName}\n{organizationName,leftAlignment}";
         }
     }
 }
