@@ -11,5 +11,10 @@
             this.Name = name;   
             this.department = dept;
         }
+
+        public override string ToString()
+        {
+            return $"\nStudent Name: {Name}\t\t\t\tDepartment: {department}\n";
+        }
     }
 }

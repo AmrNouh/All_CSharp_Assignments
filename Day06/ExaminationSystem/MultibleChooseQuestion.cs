@@ -16,7 +16,7 @@ namespace ExaminationSystem
 
         public override string ToString()
         {
-            if (studentAnswer.answer != null)
+            if (this.studentAnswer != null)
             {
             return $"{header}\t\t\t\t [{marks} marks]\n{body}\nYour Answer is: {studentAnswer}\n";
 

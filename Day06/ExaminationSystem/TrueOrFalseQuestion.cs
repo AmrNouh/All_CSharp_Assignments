@@ -11,18 +11,18 @@ namespace ExaminationSystem
         public TrueOrFalseQuestion(double mark, string body, Answer studentAnswer, Answer correctAnswer) : base("True or False", mark, body, studentAnswer, correctAnswer) { }
         public override string QuestionFormat()
         {
-            return $"{header}\t\t\t\t [{marks} marks]\n{body}\t\t( )\n";
+            return $"{header}\t\t\t\t [{marks} marks]\n{body}\t\t{"( )",7}\n";
         }
         public override string ToString()
         {
-            if (this.studentAnswer.answer != null)
+            if (this.studentAnswer != null)
             {
             return $"{header}\t\t\t\t [{this.marks} marks]\n{body}\t\t({studentAnswer})\n";
 
             }
             else
             {
-                return $"{header}\t\t\t\t [{marks} marks]\n{body}\t\t( )\n";
+                return $"{header}\t\t\t\t [{marks} marks]\n{body}\t\t{"( )",7}\n";
             }
         }
     }

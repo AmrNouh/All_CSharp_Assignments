@@ -4,6 +4,7 @@
     {
         public string subjectName { get; set; }
         public string profName { get; set; }
+        public double fullMark { get; set; }
         public string departmentName { get; set; }
         public string organizationName { get; set; }
 
@@ -13,8 +14,10 @@
             this.profName = String.Empty;
             this.departmentName = String.Empty;
             this.organizationName = String.Empty;
+            this.fullMark = 0;
+
         }
-        public Subject(string subjectName,string profName,string deptName,string orgName)
+        public Subject(string subjectName,string profName,double fullMark,string deptName,string orgName)
         {
             this.subjectName = subjectName;
             this.profName = profName;
@@ -24,7 +27,7 @@
 
         public override string ToString()
         {
-            return $"Subject Name: {subjectName}\nProfessor Name: {profName}\nDepartment : {departmentName}\n{organizationName}";
+            return $"\nSubject Name: {subjectName}\t\t\t\tProfessor Name: {profName}\nFull Mark: {fullMark}\t\t\t\tDepartment : {departmentName}\n{organizationName}";
         }
     }
 }

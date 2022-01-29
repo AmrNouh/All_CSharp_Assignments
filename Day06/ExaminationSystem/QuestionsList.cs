@@ -65,7 +65,7 @@ namespace ExaminationSystem
                 else
                 {
 
-                    for (int i = 0; i < index; i++)
+                    for (int i = 0; i <= index; i++)
                     {
                         if (questionsNumbers[i] == questionNumber)
                         {

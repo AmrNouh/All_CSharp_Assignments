@@ -36,10 +36,13 @@ namespace ExaminationSystem
             this.questionsAnswers = answers;
         }
 
-        protected abstract void ShowExam();
+        public abstract void ShowExam();
+        public abstract void PrintExam();
+        public abstract double Correct(QuestionsList examQuestions, AnswersList correctAnswers);
 
         public static void CreateExam(TimeSpan examTime, Subject subjectInfo, int numberOfQuestion)
         {
+            double fullMark;
             do
             {
                 Console.Clear();
@@ -56,7 +59,14 @@ namespace ExaminationSystem
                 Console.Clear();
                 Console.WriteLine("Please Enter Professor Name:");
                 subjectInfo.profName = Console.ReadLine();
-            } while (!string.IsNullOrWhiteSpace(subjectInfo.profName) && subjectInfo.profName.Length <= 3);
+            } while (!string.IsNullOrWhiteSpace(subjectInfo.profName) && subjectInfo.profName.Length <= 2);
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("Please Enter Exam Full Mark");
+            } while (!double.TryParse(Console.ReadLine(), out fullMark));
+            subjectInfo.fullMark = fullMark;
+
             do
             {
                 Console.Clear();
@@ -75,6 +85,23 @@ namespace ExaminationSystem
                 Console.WriteLine("Please Enter Number of Question in Exam");
             } while (!int.TryParse(Console.ReadLine(),out numberOfQuestion));
 
+            Console.Clear();
+        }
+
+        public static void TakeStudentData(Student student)
+        {
+            do
+            {
+                Console.WriteLine("Please Enter Your Name:");
+                student.Name = Console.ReadLine();
+            } while (!string.IsNullOrWhiteSpace(student.Name) && student.Name.Length <= 2);
+            do
+            {
+                Console.WriteLine("Please Enter Your Department:");
+                student.department = Console.ReadLine();
+            } while (!string.IsNullOrWhiteSpace(student.department) && student.department.Length <= 2);
+
+            Console.Clear();
         }
 
     }
