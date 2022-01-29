@@ -12,3 +12,4 @@ F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0
 F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
 F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
 F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\Day06\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.AssemblyReference.cache

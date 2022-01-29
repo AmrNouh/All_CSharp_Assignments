@@ -58,6 +58,11 @@ switch (choice)
         practicalExam.ShowExam();
 
         practicalExam.PrintExam();
+
+        practicalExam.studentInfo.grade = practicalExam.Correct(examQuestions, studentAnswers);
+        Console.WriteLine("\t\t\tExam Grade");
+        Console.WriteLine(practicalExam.studentInfo);
+
         break;
     case 2:
         break;

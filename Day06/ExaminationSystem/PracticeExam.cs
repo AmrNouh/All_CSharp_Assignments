@@ -18,7 +18,7 @@ namespace ExaminationSystem
             for (int i = 0; i < this.numberOfQuestions; i++)
             {
                 question = examQuestions[i + 1];
-                if (question.correctAnswer == studentAnswers[i+1])
+                if (question.correctAnswer.answer.ToString() == studentAnswers[i+1].answer.ToString())
                 {
                     studentGrade += question.marks;
                 }
