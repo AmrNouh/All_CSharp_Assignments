@@ -1,0 +1,15 @@
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\bin\Debug\net6.0\ExaminationSystemEnhancedVersion.exe
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\bin\Debug\net6.0\ExaminationSystemEnhancedVersion.deps.json
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\bin\Debug\net6.0\ExaminationSystemEnhancedVersion.runtimeconfig.json
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\bin\Debug\net6.0\ExaminationSystemEnhancedVersion.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\bin\Debug\net6.0\ref\ExaminationSystemEnhancedVersion.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\bin\Debug\net6.0\ExaminationSystemEnhancedVersion.pdb
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\obj\Debug\net6.0\ExaminationSystemEnhancedVersion.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\obj\Debug\net6.0\ExaminationSystemEnhancedVersion.AssemblyInfoInputs.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\obj\Debug\net6.0\ExaminationSystemEnhancedVersion.AssemblyInfo.cs
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\obj\Debug\net6.0\ExaminationSystemEnhancedVersion.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\obj\Debug\net6.0\ExaminationSystemEnhancedVersion.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\obj\Debug\net6.0\ref\ExaminationSystemEnhancedVersion.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\obj\Debug\net6.0\ExaminationSystemEnhancedVersion.pdb
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\obj\Debug\net6.0\ExaminationSystemEnhancedVersion.genruntimeconfig.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\EnhancedDay6\ExaminationSystemEnhancedVersion\obj\Debug\net6.0\ExaminationSystemEnhancedVersion.csproj.AssemblyReference.cache

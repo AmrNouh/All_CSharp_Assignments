@@ -1,4 +1,5 @@
 ﻿using ExaminationSystem;
+using System.Collections;
 
 int choice;
 TimeSpan examTime = TimeSpan.Zero;
