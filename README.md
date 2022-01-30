@@ -20,7 +20,7 @@ C# Course  All Assignments Form Day02
 - Employee Management System
 ## Day05
 - Duration Program and Operator overloading
-- FTP projeec (Singleton Design Pattern)
+- FTP project (Singleton Design Pattern)
 - Math Class Operation (static Keyword)
 - Point3D
 ## Day06
