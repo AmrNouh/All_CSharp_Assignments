@@ -27,3 +27,5 @@ C# Course  All Assignments Form Day02
 - Examination System
 ## Enhanced Day06
 - ReImplemet Examination System agin :")
+## Day08
+- Book Class (User Defined Delegate && Built in Delegate)
