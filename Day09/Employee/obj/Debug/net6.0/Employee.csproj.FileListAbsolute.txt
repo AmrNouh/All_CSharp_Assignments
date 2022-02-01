@@ -1,0 +1,15 @@
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\bin\Debug\net6.0\Employee.exe
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\bin\Debug\net6.0\Employee.deps.json
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\bin\Debug\net6.0\Employee.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\bin\Debug\net6.0\ref\Employee.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\bin\Debug\net6.0\Employee.pdb
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\obj\Debug\net6.0\Employee.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\obj\Debug\net6.0\ref\Employee.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\obj\Debug\net6.0\Employee.pdb
+F:\ITI PD 9Month\C#\All Lab Assignments\Day09\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache
