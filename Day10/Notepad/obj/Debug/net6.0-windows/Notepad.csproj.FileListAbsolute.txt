@@ -1,0 +1,17 @@
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\obj\Debug\net6.0-windows\Notepad.Frm_Home.resources
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\obj\Debug\net6.0-windows\Notepad.Properties.Resources.resources
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.GenerateResource.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\obj\Debug\net6.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfoInputs.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfo.cs
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\bin\Debug\net6.0-windows\Notepad.exe
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\bin\Debug\net6.0-windows\Notepad.deps.json
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\bin\Debug\net6.0-windows\Notepad.runtimeconfig.json
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\bin\Debug\net6.0-windows\Notepad.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\bin\Debug\net6.0-windows\ref\Notepad.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\bin\Debug\net6.0-windows\Notepad.pdb
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\obj\Debug\net6.0-windows\Notepad.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\obj\Debug\net6.0-windows\ref\Notepad.dll
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\obj\Debug\net6.0-windows\Notepad.pdb
+F:\ITI PD 9Month\C#\All Lab Assignments\Day10\Notepad\obj\Debug\net6.0-windows\Notepad.genruntimeconfig.cache
